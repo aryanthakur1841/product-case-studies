@@ -43,13 +43,6 @@ change impact simulation before applying updates
 Exportable reports for audits and reviews
 
 Wireframes
-📁 Folder: C:\Users\thaku\OneDrive\Desktop\Wireframe
-
-screen1-dashboard.png
-
-screen2-role-details.png
-
-screen3-simulation.png
 
 🔗 Figma Link:
 
