@@ -53,12 +53,12 @@ Reduction in unused IAM permissions
 
 Mean time to remediate IAM risks
 
-Author
-
-Aryan Thakur
-
 Number of roles brought to least privilege
 
 User confidence in permission changes
 
 Audit compliance improvement
+
+Author
+
+Aryan Thakur
