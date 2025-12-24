@@ -60,6 +60,18 @@ User confidence in permission changes
 
 Audit compliance improvement
 
+Success Metrics:-
+
+Reduction in unused IAM permissions
+
+Mean time to remediate IAM risks
+
+Number of roles brought to least privilege
+
+User confidence in permission changes
+
+Audit compliance improvement
+
 Author
 
 Aryan Thakur
